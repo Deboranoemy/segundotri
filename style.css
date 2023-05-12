@@ -16,7 +16,9 @@ background-color: white;
 padding: 10px;
 box-shadow: 10px 10px 10px black; /* sombra: */ 
 margin: auto; 
-border-radius: 10px;    }    
+border-radius: 5px;   
+
+ }    
  #idnum1{
 
 background-color: rgb(48, 48, 255); 
@@ -30,7 +32,7 @@ border-radius: 10px;
 color: rgb(255, 0, 85);
  text-align: center; 
  font-size: 50px;
- font-style: oblique;
+
  }
 
  h2{
